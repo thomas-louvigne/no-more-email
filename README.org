@@ -34,7 +34,7 @@
   - Retirez l'intitulé de votre poste dans l'entreprise
   - Votre nom d'entreprise est déjà dans votre adresse email ( @maCompagnie.com )
   - Au final, une signature, c'est juste un nom
-  - Bonus : vous pouvez explicer comment vous souhaitez qu'on vous réponde Ex : VSRE https://vsre.info/index_fr.html
+  - Bonus : vous pouvez expliciter comment vous souhaitez qu'on vous réponde. Exemple : VSRE https://vsre.info/index_fr.html
 
 * Mettez un titre de mail explicite
   Le corps du mail sert seulement a préciser ce titre
@@ -42,8 +42,9 @@
 * N'envoyez pas de pièce jointe
   - Envoyez un lien vers le drive où se trouve votre document (dropbox, google drive, Microsoft One)
   - Ne mettez pas d'images dans vos mails
+  - N'envoyez plus de PDF, faites des blogs. (Les PDF n'ont d'intéret que pour l'impression)
 
-* Si c'est long et chian à écrire. Imaginez la réponse
+* Si c'est long et pénible à écrire. Imaginez la réponse.
 
 * Bloquez les emails vous ne désirez plus recevoir
   - Si vous ne voulez pas voir de publicité, désabonnez vous tout de suite. Puis bloquez l'expéditeur
