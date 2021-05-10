@@ -1,0 +1,55 @@
+#+title: Quelques Règles pour les emails
+
+* TL;DR
+  Ceci est un petit message pour vous inciter à trouver d'autres moyens que l'email pour communiquer
+
+* N'écrivez plus de email
+ - Nous avons trop de mail dans notre boite mail
+ - C'est une technologie des années 90 dépassé, non sécurisé a l'ergonomie lourde
+ - Si vous voulez caler une date dans un agenda, utilisez google agenda/outlook
+ - Si vous avez besoin d'un réponse en moins d'une journée envoyez un message instantané (slack, hangout, whatsapp ou téléphonnez à la personne...)
+ - Si vous avez besoin de débattre, faites une réunion
+ - Si vous avez besoin de réfléchir en groupe, faites une réunion
+ - Si vous avez besoin de présenter un projet, faites un powerpoint et faites une réunion
+ - Si vous avez besoin est d'informer des gens régulièrement, faites un blog
+
+* Infliger de l'information a des gens qui ne l'ont pas demandé s'appel du SPAM
+  Même dans l'entreprise
+
+* Écrivez uniquement aux personnes qui doivent vous répondre
+  Si vous n'attendez pas de réponses, c'est que c'est une information qui pourrait passer par un autre canal comme un blog privé
+
+* Ne traiter que d'un seul sujet par email
+  Si vous avez plusieurs choses à dire à une personne, faites plusieurs emails
+
+* 5 lignes maximum dans le mail
+  Si cela fait plus de 5 ligne, appelez la personne ou faites une réunion
+
+* Soyez simple et clair dans votre expression :
+  - Utilisez des tiret pour gagner en clarté
+  - Oubliez les phrases longues, la poésie et la politesse convenue
+
+* Soyez bref dans vos signatures automatique
+  - Rtirez les images
+  - Retirez l'intitulé de votre poste dans l'entreprise
+  - Votre nom d'entreprise est déjà dans votre adresse email ( @maCompagnie.com )
+  - Au final, une signature, c'est juste un nom
+  - Bonus : vous pouvez explicer comment vous souhaitez qu'on vous réponde Ex : VSRE https://vsre.info/index_fr.html
+
+* Mettez un titre de mail explicite
+  Le corps du mail sert seulement a préciser ce titre
+
+* N'envoyez pas de pièce jointe
+  - Envoyez un lien vers le drive où se trouve votre document (dropbox, google drive, Microsoft One)
+  - Ne mettez pas d'images dans vos mails
+
+* Si c'est long et chian à écrire. Imaginez la réponse
+
+* Bloquez les emails vous ne désirez plus recevoir
+  - Si vous ne voulez pas voir de publicité, désabonnez vous tout de suite. Puis bloquez l'expéditeur
+  - Si c'est un collegue ou un proche qui vous envoie trop de emails que vous ne désirez pas, prévenez le et bloquez le si il continue
+
+
+* Inspirations :
+  - 5 sentences http://www.five.sentenc.es/
+  - VSRE https://vsre.info/index_fr.html
